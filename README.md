@@ -16,7 +16,8 @@ Una vez que nuestro que se allá creado el App Service nos dirigimos GitHub y cl
 
 Después de hacer clonado el archivo, buscamos una carpeta para subir GitHub la cual lleva por nombre página web la subimos creado un nuevo repositorio y siguiendo los pasos que nos en el nuevo repositorio creado para subirlo.  
 
-![new repository](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/3.png)
+![new repository](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/3.png)  
+
 ![repository clone](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/4.png)
 ----------------------------------------------------------------------------------------
 ## Paso 4:
