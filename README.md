@@ -17,17 +17,18 @@ Una vez que nuestro que se allá creado el App Service nos dirigimos GitHub y cl
 Después de hacer clonado el archivo, buscamos una carpeta para subir GitHub la cual lleva por nombre página web la subimos creado un nuevo repositorio y siguiendo los pasos que nos en el nuevo repositorio creado para subirlo.  
 
 ![new repository](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/3.png)  
-
 ![repository clone](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/4.png)
 ----------------------------------------------------------------------------------------
 ## Paso 4:
 
-Una vez que nuestro recurso se creo en Azure entremos a el y nos vamos al apartado Centro de implementación y iniciamos sesión con nuestra cuenta de GitHub y añadimos todo el repositorio que anteriormente subimos a él, posterior a ello lo guardamos.
+Una vez que nuestro recurso se creo en Azure entremos a el y nos vamos al apartado Centro de implementación y iniciamos sesión con nuestra cuenta de GitHub y añadimos todo el repositorio que anteriormente subimos a él, posterior a ello lo guardamos.  
+
 ![inicio de sesion](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/5.png)
 ----------------------------------------------------------------------------------------
 ## Paso 5:  
 
-Una vez acabado con el paso 4 volvemos a GitHub y vemos que nuestra página se está subiendo en la opción Actions en tipo real a Azure aquí ya solo sería cuestión de tiempo para esperar y ver la reflejada ya en internet.
+Una vez acabado con el paso 4 volvemos a GitHub y vemos que nuestra página se está subiendo en la opción Actions en tipo real a Azure aquí ya solo sería cuestión de tiempo para esperar y ver la reflejada ya en internet.  
+
 ![GitHub](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/6.png)
 ![pagina 1](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/7.png)
 ![pagina 2](https://github.com/aldodanielle/P5_AAS_subir_pagina-/blob/main/Imagenes/7.png)
